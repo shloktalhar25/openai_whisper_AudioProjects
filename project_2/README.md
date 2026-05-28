@@ -2,6 +2,7 @@
 # The audio stream format (.webm) gets automatically deleted and the mp3 remains unchanged.
 
 # here is the flow:
+```
 YouTube Audio Stream
         ↓
 Temporary webm/m4a
@@ -9,6 +10,6 @@ Temporary webm/m4a
 FFmpeg Conversion
         ↓
 Final MP3
-
+```
 ## Its good for samll time audios , but if we want to transcribe long audio then we might have to chunk.
 
