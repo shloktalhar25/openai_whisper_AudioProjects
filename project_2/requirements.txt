@@ -1,0 +1,7 @@
+yt-dlp
+transformers # for downloading and using openai whisper
+torch
+torchaudio
+accelerate
+sentencepiece
+ffmpeg-python
